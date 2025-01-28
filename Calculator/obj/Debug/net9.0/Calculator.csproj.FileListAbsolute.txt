@@ -1,0 +1,14 @@
+C:\Users\jonat\OneDrive\Documentos\Repositórios\Calculator\Calculator\bin\Debug\net9.0\Calculator.exe
+C:\Users\jonat\OneDrive\Documentos\Repositórios\Calculator\Calculator\bin\Debug\net9.0\Calculator.deps.json
+C:\Users\jonat\OneDrive\Documentos\Repositórios\Calculator\Calculator\bin\Debug\net9.0\Calculator.runtimeconfig.json
+C:\Users\jonat\OneDrive\Documentos\Repositórios\Calculator\Calculator\bin\Debug\net9.0\Calculator.dll
+C:\Users\jonat\OneDrive\Documentos\Repositórios\Calculator\Calculator\bin\Debug\net9.0\Calculator.pdb
+C:\Users\jonat\OneDrive\Documentos\Repositórios\Calculator\Calculator\obj\Debug\net9.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Documentos\Repositórios\Calculator\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Documentos\Repositórios\Calculator\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Documentos\Repositórios\Calculator\Calculator\obj\Debug\net9.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Documentos\Repositórios\Calculator\Calculator\obj\Debug\net9.0\Calculator.dll
+C:\Users\jonat\OneDrive\Documentos\Repositórios\Calculator\Calculator\obj\Debug\net9.0\refint\Calculator.dll
+C:\Users\jonat\OneDrive\Documentos\Repositórios\Calculator\Calculator\obj\Debug\net9.0\Calculator.pdb
+C:\Users\jonat\OneDrive\Documentos\Repositórios\Calculator\Calculator\obj\Debug\net9.0\Calculator.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\Documentos\Repositórios\Calculator\Calculator\obj\Debug\net9.0\ref\Calculator.dll
